@@ -1,0 +1,583 @@
+mate-session[2121]: WARNING: Unable to find provider '' of required component 'dock'
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1
+SELinux Troubleshooter: Applet requires SELinux be enabled to run.
+vmware-user: could not open /proc/fs/vmblock/dev
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring/gpg:0:1
+
+(mate-power-manager:2474): Gdk-CRITICAL **: IA__gdk_window_thaw_toplevel_updates_libgtk_only: assertion 'private->update_and_descendants_freeze_count > 0' failed
+Initializing caja-image-converter extension
+Initializing caja-open-terminal extension
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd616a0' has no handler with id '4949'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xf1d160' has no handler with id '4753'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd616a0' has no handler with id '6259'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd619a0' has no handler with id '9172'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xf457a0' has no handler with id '10698'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xf1d160' has no handler with id '10705'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a5c00e4d0' has no handler with id '28899'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x16a7f00' has no handler with id '30798'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x157cac0' has no handler with id '30805'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x144a6a0' has no handler with id '30812'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x14e0180' has no handler with id '30819'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xb98980' has no handler with id '30826'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11af8e0' has no handler with id '30833'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11bab80' has no handler with id '30840'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xf457a0' has no handler with id '30847'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd619a0' has no handler with id '32369'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1789500' has no handler with id '34207'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x16a7f00' has no handler with id '34214'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x157cac0' has no handler with id '34221'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x144a6a0' has no handler with id '34228'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x14e0180' has no handler with id '34235'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xb98980' has no handler with id '34242'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11af8e0' has no handler with id '34249'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11bab80' has no handler with id '34256'
+/home/neec/Git/chat/gacha.php: 行 1: ?php: そのようなファイルやディレクトリはありません
+/home/neec/Git/chat/gacha.php: 行 2: 予期しないトークン `$argv' 周辺に構文エラーがあります
+/home/neec/Git/chat/gacha.php: 行 2: `	if(count($argv)===1)'
+
+(firefox:8452): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+1482110230264	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a5c00e4d0' has no handler with id '43083'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x189cfa0' has no handler with id '44972'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1590c20' has no handler with id '44979'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x17be600' has no handler with id '44986'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x15cea20' has no handler with id '44993'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x15d6780' has no handler with id '45000'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1782ae0' has no handler with id '45007'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1789500' has no handler with id '45014'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11af8e0' has no handler with id '45021'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd616a0' has no handler with id '46522'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x191a0a0' has no handler with id '48374'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x189cfa0' has no handler with id '48381'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1590c20' has no handler with id '48388'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x17be600' has no handler with id '48395'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x15cea20' has no handler with id '48402'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1782ae0' has no handler with id '48409'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1789500' has no handler with id '48416'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11af8e0' has no handler with id '48423'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11a5f20' has no handler with id '52441'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1831220' has no handler with id '51717'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x191a0a0' has no handler with id '51724'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x189cfa0' has no handler with id '51731'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1590c20' has no handler with id '51738'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x17be600' has no handler with id '51745'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x15cea20' has no handler with id '51752'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1782ae0' has no handler with id '51759'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11af8e0' has no handler with id '51766'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x16f2330' has no handler with id '69066'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1bd2160' has no handler with id '69761'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b192c0' has no handler with id '69768'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1746180' has no handler with id '69775'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1996740' has no handler with id '69782'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x16f6520' has no handler with id '69789'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x182d100' has no handler with id '69796'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x19a2240' has no handler with id '69803'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x16f4140' has no handler with id '69810'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x17d15a0' has no handler with id '69817'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1867f40' has no handler with id '69824'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd616a0' has no handler with id '89806'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1cb56c0' has no handler with id '90283'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e652a0' has no handler with id '90290'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e8cc80' has no handler with id '90297'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58082fa0' has no handler with id '90304'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58053a80' has no handler with id '90311'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e39ac0' has no handler with id '90318'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1a00980' has no handler with id '90325'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58179080' has no handler with id '90332'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1ddea40' has no handler with id '90339'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b2ff00' has no handler with id '90346'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x16f2c30' has no handler with id '71244'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1cb56c0' has no handler with id '90198'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e652a0' has no handler with id '90205'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e8cc80' has no handler with id '90212'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58082fa0' has no handler with id '90219'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58053a80' has no handler with id '90226'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e39ac0' has no handler with id '90233'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1a00980' has no handler with id '90240'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58179080' has no handler with id '90247'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1ddea40' has no handler with id '90254'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b2ff00' has no handler with id '90261'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a5c00e4d0' has no handler with id '92112'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b10aa0' has no handler with id '94156'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1cb56c0' has no handler with id '94163'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e652a0' has no handler with id '94170'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e8cc80' has no handler with id '94177'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58082fa0' has no handler with id '94184'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58053a80' has no handler with id '94191'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e39ac0' has no handler with id '94198'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1a00980' has no handler with id '94205'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58179080' has no handler with id '94212'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1ddea40' has no handler with id '94219'
+1482110686904	addons.repository	WARN	Search failed when repopulating cache
+1482110706989	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1482110746975	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=loop@mozilla.org&version=1.1.14&maxAppVersion=45.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=45.4.0&appOS=Linux&appABI=x86_64-gcc3&locale=ja-JP&currentAppVersion=45.4.0&updateType=112&compatMode=normal timed out
+1482110746980	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=langpack-ja@firefox.mozilla.org&version=45.4.0&maxAppVersion=45.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=45.4.0&appOS=Linux&appABI=x86_64-gcc3&locale=ja-JP&currentAppVersion=45.4.0&updateType=112&compatMode=normal timed out
+1482110746983	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id={972ce4c6-7e08-4474-a285-3208198ce6fd}&version=45.4.0&maxAppVersion=45.4.0&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=45.4.0&appOS=Linux&appABI=x86_64-gcc3&locale=ja-JP&currentAppVersion=45.4.0&updateType=112&compatMode=normal timed out
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd616a0' has no handler with id '100603'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x197a840' has no handler with id '100800'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58088900' has no handler with id '100807'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1c71180' has no handler with id '100814'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1a6a560' has no handler with id '100821'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b10aa0' has no handler with id '100828'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e652a0' has no handler with id '100835'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e8cc80' has no handler with id '100842'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58082fa0' has no handler with id '100849'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58053a80' has no handler with id '100856'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e39ac0' has no handler with id '100863'
+
+** (pluma:3106): WARNING **: Hit unhandled case 0 (作業用のファイル名を変更する際にエラー: テキストファイルがビジー状態です) in parse_error.
+
+** (pluma:3106): WARNING **: Hit unhandled case 0 (作業用のファイル名を変更する際にエラー: テキストファイルがビジー状態です) in parse_error.
+1482114411356	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1482114512533	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+
+** (pluma:11517): WARNING **: Hit unhandled case 0 (作業用のファイル名を変更する際にエラー: テキストファイルがビジー状態です) in parse_error.
+openjdk version "1.8.0_102"
+OpenJDK Runtime Environment (build 1.8.0_102-b14)
+OpenJDK 64-Bit Server VM (build 25.102-b14, mixed mode)
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a5c00e4d0' has no handler with id '121715'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1859e60' has no handler with id '124189'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1ddae80' has no handler with id '124196'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1a00e40' has no handler with id '124203'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x15c4a60' has no handler with id '124210'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x197a840' has no handler with id '124217'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58088900' has no handler with id '124224'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e652a0' has no handler with id '124231'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e8cc80' has no handler with id '124238'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58082fa0' has no handler with id '124245'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58053a80' has no handler with id '124252'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11ae660' has no handler with id '129150'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b0d8e0' has no handler with id '128419'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1859e60' has no handler with id '128426'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1ddae80' has no handler with id '128433'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1a00e40' has no handler with id '128440'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x197a840' has no handler with id '128447'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58088900' has no handler with id '128454'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e652a0' has no handler with id '128461'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1e8cc80' has no handler with id '128468'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58082fa0' has no handler with id '128475'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58053a80' has no handler with id '128482'
+
+(firefox:11366): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:11366): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd619a0' has no handler with id '163231'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x23de3a0' has no handler with id '163868'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x289c240' has no handler with id '163875'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2f7b2e0' has no handler with id '163882'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2a9fb80' has no handler with id '163889'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x15c4c40' has no handler with id '163896'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1ccfd80' has no handler with id '163903'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3121c00' has no handler with id '163910'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x30a1720' has no handler with id '163917'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b0d8e0' has no handler with id '163924'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1859e60' has no handler with id '163931'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xd619a0' has no handler with id '177356'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2a09ae0' has no handler with id '177993'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x22e2d00' has no handler with id '178000'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2a16120' has no handler with id '178007'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2d91e60' has no handler with id '178014'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2d8fac0' has no handler with id '178021'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b36640' has no handler with id '178028'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x289c240' has no handler with id '178035'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2f7b2e0' has no handler with id '178042'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2a9fb80' has no handler with id '178049'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x15c4c40' has no handler with id '178056'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a5c00e4d0' has no handler with id '186719'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2a37440' has no handler with id '189285'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x299e040' has no handler with id '189292'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x30c35a0' has no handler with id '189299'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1c33f40' has no handler with id '189306'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x22e2d00' has no handler with id '189313'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2a16120' has no handler with id '189320'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2d91e60' has no handler with id '189327'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2d8fac0' has no handler with id '189334'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b36640' has no handler with id '189341'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x289c240' has no handler with id '189348'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a5c00e4d0' has no handler with id '192881'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d88e60' has no handler with id '195517'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2cafe60' has no handler with id '195524'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x299e040' has no handler with id '195531'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x30c35a0' has no handler with id '195538'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1c33f40' has no handler with id '195545'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x22e2d00' has no handler with id '195552'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2a16120' has no handler with id '195559'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2d91e60' has no handler with id '195566'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2d8fac0' has no handler with id '195573'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1b36640' has no handler with id '195580'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11aec60' has no handler with id '17820'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230022'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230029'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230036'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230043'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230050'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230057'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230064'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230071'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230078'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230085'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11ae960' has no handler with id '22726'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230097'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230104'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230111'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230118'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230125'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230132'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230139'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230146'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230153'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230160'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x11acd80' has no handler with id '41801'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230172'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230179'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230186'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230193'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230200'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230207'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230214'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230221'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230228'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230235'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x16ea900' has no handler with id '112536'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230322'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230329'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230336'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230343'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230350'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230357'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230364'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230371'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230378'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230385'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0xf42c60' has no handler with id '64874'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230247'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230254'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230261'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230268'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230275'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230282'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230289'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230296'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230303'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230310'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a5c00e4d0' has no handler with id '195728'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230397'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230404'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230411'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230418'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230425'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230432'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230439'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230446'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230453'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230460'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x16ea900' has no handler with id '185086'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230472'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230479'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230486'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230493'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230500'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230507'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230514'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230521'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230528'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230535'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2fd3330' has no handler with id '119785'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230547'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230554'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230561'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230568'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230575'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230582'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230589'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230596'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230603'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230610'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x112d7c0' has no handler with id '185260'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2683780' has no handler with id '230622'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x26b6960' has no handler with id '230629'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x265d4e0' has no handler with id '230636'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x264f820' has no handler with id '230643'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x7f2a58113c60' has no handler with id '230650'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x3052c60' has no handler with id '230657'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x2edc500' has no handler with id '230664'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x221e000' has no handler with id '230671'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x1d0e700' has no handler with id '230678'
+
+(caja:2468): GLib-GObject-WARNING **: gsignal.c:2579: instance '0x218e960' has no handler with id '230685'

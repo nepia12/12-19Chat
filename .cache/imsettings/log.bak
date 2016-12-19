@@ -1,0 +1,40 @@
+[ 1481517952.088184]: IMSettings-Daemon[2150]: INFO: Starting imsettings-daemon...
+[ 1481517952.088275]: IMSettings-Daemon[2150]: INFO:   [HOME=/home/neec/.config/imsettings]
+[ 1481517952.088296]: IMSettings-Daemon[2150]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1481517952.088314]: IMSettings-Daemon[2150]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1481517952.088330]: IMSettings-Daemon[2150]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1481517952.088349]: IMSettings-Daemon[2150]: INFO:   [MODULES=gsettings]
+
+imsettings information
+==========================
+XINPUTRC: /etc/X11/xinit//xinputrc
+	  File: `/etc/X11/xinit//xinputrc' -> `/etc/alternatives/xinputrc'
+	  Size: 26        	Blocks: 0          IO Block: 4096   シンボリックリンク
+	Device: fd00h/64768d	Inode: 18709422    Links: 1
+	Access: (0777/lrwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+	Access: 2016-12-12 13:45:51.837195752 +0900
+	Modify: 2016-09-27 10:04:21.151813984 +0900
+	Change: 2016-09-27 10:04:21.151813984 +0900
+	 Birth: -
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: no
+Is Qt supported: no
+DESKTOP: mate
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-Q5JDhx0apG,guid=6dac8375a182c5bfe21a28a0584e2b7f
+GTK_IM_MODULE: ibus
+QT_IM_MODULE: xim
+XMODIFIERS: @im=ibus
+IMSETTINGS_MODULE: IBus
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+[ 1481517958.129624]: IMSettings-Daemon[2150]: INFO: Attempting to switch IM to IBus [lang=ja_JP.UTF-8, update=false]
+[ 1481517958.748804]: IMSettings-Daemon[2150]: INFO:   no need to invoke any auxiliary process for IBus
+[ 1481517958.748897]: IMSettings-Daemon[2150]: INFO:   Starting the main process for IBus [lang:ja_JP.UTF-8]
+[ 1481517958.752811]: IMSettings-Daemon[2150]: INFO:   Started IBus: [process: /usr/bin/ibus-daemon -r --xim, lang: ja_JP.UTF-8, pid: 2939, id: 36, time: 2016-12-12T04:45:58.752769Z
+[ 1481517958.753055]: IMSettings-GSettings backend[2150]: INFO: Setting up ibus:xim as gtk+ immodule

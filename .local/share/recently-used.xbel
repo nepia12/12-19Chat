@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/neec/Desktop/memo.txt" added="2016-10-01T11:45:30Z" modified="2016-12-19T01:18:12Z" visited="2016-10-01T11:45:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T01:18:12Z" count="18"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-11-28T04:58:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/Gacha.php" added="2016-11-07T02:02:53Z" modified="2016-12-19T02:24:05Z" visited="2016-11-07T02:02:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T02:24:05Z" count="60"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-12-05T05:47:53Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_Mbile/ffxiv_ico07001/rpgdb.xlsx" added="2016-11-21T02:39:26Z" modified="2016-11-21T03:07:55Z" visited="2016-11-21T02:39:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Caja" exec="&apos;libreoffice --calc %U&apos;" modified="2016-11-21T02:39:26Z" count="1"/>
+          <bookmark:application name="LibreOffice 4.3" exec="&apos;soffice %u&apos;" modified="2016-11-21T03:07:55Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_Mbile/ffxiv_ico07001/Monster" added="2016-11-21T03:05:51Z" modified="2016-11-21T03:06:10Z" visited="2016-11-21T03:05:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.3" exec="&apos;soffice %u&apos;" modified="2016-11-21T03:06:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/Monster.csv" added="2016-11-21T03:09:21Z" modified="2016-11-21T03:09:34Z" visited="2016-11-21T03:09:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-11-21T03:09:21Z" count="1"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-11-21T03:09:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/data/index.sql" added="2016-11-28T01:31:29Z" modified="2016-11-28T01:35:35Z" visited="2016-11-28T01:31:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-sql"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-11-28T01:31:29Z" count="1"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-11-28T01:35:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/data/noindex.sql" added="2016-11-28T01:31:43Z" modified="2016-11-28T01:35:52Z" visited="2016-11-28T01:31:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-sql"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-11-28T01:31:43Z" count="1"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-11-28T01:35:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/1128text.php" added="2016-11-28T03:03:17Z" modified="2016-12-19T03:16:23Z" visited="2016-11-28T03:03:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T03:16:23Z" count="6"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-11-28T03:17:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/sqlcreate.php" added="2016-11-28T03:03:40Z" modified="2016-12-19T02:23:49Z" visited="2016-11-28T03:03:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T02:23:49Z" count="12"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-12-05T05:54:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/gacha.php" added="2016-11-28T04:41:14Z" modified="2016-12-19T02:23:40Z" visited="2016-11-28T04:41:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T02:23:40Z" count="10"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-12-05T05:49:47Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/twitter.sql" added="2016-12-05T01:49:04Z" modified="2016-12-05T05:35:00Z" visited="2016-12-05T01:49:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-sql"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-05T05:35:00Z" count="4"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-12-05T02:24:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/.gitconfig" added="2016-12-12T04:48:39Z" modified="2016-12-12T04:49:10Z" visited="2016-12-12T04:48:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-12T04:49:10Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Git/hello/a.txt" added="2016-12-12T05:15:24Z" modified="2016-12-12T05:15:24Z" visited="2016-12-12T05:15:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-12T05:15:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Git/chat/gacha.php" added="2016-12-19T01:11:10Z" modified="2016-12-19T01:11:10Z" visited="2016-12-19T01:11:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T01:11:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_Mbile/Chat/Main.php" added="2016-12-19T02:21:52Z" modified="2016-12-19T02:23:03Z" visited="2016-12-19T02:21:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T02:23:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_Mbile/Chat/Error.php" added="2016-12-19T02:23:01Z" modified="2016-12-19T02:53:26Z" visited="2016-12-19T02:23:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T02:53:26Z" count="2"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-12-19T02:53:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/neec/Desktop/Chat/Login.php" added="2016-12-19T02:26:09Z" modified="2016-12-19T02:26:09Z" visited="2016-12-19T02:26:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T02:26:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_Mbile/Chat/Login.php" added="2016-12-19T02:39:40Z" modified="2016-12-19T02:53:50Z" visited="2016-12-19T02:39:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T02:53:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sf_Mbile/HTML/Chat/Login.html" added="2016-12-19T02:51:25Z" modified="2016-12-19T02:51:25Z" visited="2016-12-19T02:51:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Caja" exec="&apos;firefox %u&apos;" modified="2016-12-19T02:51:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Chat/Login.php" added="2016-12-19T03:08:10Z" modified="2016-12-19T03:12:34Z" visited="2016-12-19T03:08:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T03:12:34Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Chat/Main.php" added="2016-12-19T03:09:07Z" modified="2016-12-19T03:09:07Z" visited="2016-12-19T03:09:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T03:09:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/Chat/UserCheck.php" added="2016-12-19T03:10:14Z" modified="2016-12-19T06:29:29Z" visited="2016-12-19T03:10:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2016-12-19T06:29:29Z" count="53"/>
+          <bookmark:application name="Caja" exec="&apos;pluma %U&apos;" modified="2016-12-19T05:53:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

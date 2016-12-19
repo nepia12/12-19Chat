@@ -1,0 +1,155 @@
+■モバイルプログラミング2/モバイルプログラミング実習2
+
+------------------------
+◯資料
+------------------------
+・スライドやソース
+  https://github.com/katsube/neec/tree/master/mobileprogramming2
+
+
+------------------------
+◯アカウント
+-------------------------
+・Linuxログイン
+	neec / neec2016
+	root / root2016
+
+・MySQL
+	root / H@chiouji1
+	'example'@'192.168.1.0/255.255.255.0' IDENTIFIED BY 'Passwd123456$'
+	'example'@'localhost' IDENTIFIED BY 'Passwd123456$'
+
+
+------------------------
+◯コマンド
+------------------------
+・IPアドレスの確認
+	$ ifconfig
+
+・サーバの起動
+	# systemctl start httpd.service
+	# systemctl start mysql.service
+
+	※実行には管理者権限が必要
+	※startの部分を stop, restart, status にすると
+	　文字通りの挙動になる
+
+・OSの終了
+	# halt
+	
+	※実行には管理者権限が必要
+	※rebootで再起動
+
+・管理者権限で実行する
+	$ sudo コマンド名
+	[sudo] password for neec: [自分のパスワード]
+
+	$ su - 
+	# 
+
+・ファイル/ディレクトリ
+	一覧を表示 			ls
+	一覧を詳しく標示		ls -la
+	移動する 			cd パス
+	現在位置 			pwd
+	コピー				cp
+	削除	 				rm
+	名前を変更			mv 旧ファイル 新ファイル
+	シンボリックリンク	ln -s リンク元 リンク先
+	ディレクトリ作成 		mkdir
+
+
+
+------------------------
+◯Apache
+------------------------
+・公開したいファイルを置く場所
+	/var/www/html
+
+・設定ファイルの場所
+	/etc/httpd/conf/httpd.conf
+	/etc/httpd/conf.d/*.conf
+
+
+------------------------
+◯PHP
+------------------------
+・リファレンス
+	http://php.net/manual/ja/
+		※みなさんが実習で使用するバージョンはPHP 5.6です。
+
+・設定ファイルの場所
+	/opt/remi/php56/root/etc/php.ini
+	/opt/remi/php56/root/etc/php.d/*.ini
+
+
+------------------------
+◯MySQL
+------------------------
+・コマンド
+	ログイン
+		$ mysql -u [ユーザー名] -p
+		Enter password: [パスワード入力]
+
+	データベース一覧
+		mysql> show databases;
+
+	データベースの選択
+		mysql> use [データベース名]
+
+	テーブル一覧
+		mysql> show tables;
+
+	テーブルの構造
+		mysql> desc [テーブル名]
+
+	コマンドラインを抜ける
+		mysql> \q
+
+・設定ファイルの場所
+	/etc/my.cnf
+
+
+------------------------
+◯SQL
+------------------------
+・データベース(Schema)を作成する
+	mysql> create database [データベース名];
+
+・テーブルを作成する
+	mysql> create table [テーブル名](
+				カラム名 データ型 オプション,
+				カラム名 データ型 オプション,
+				各種インデックスの定義
+		    );
+
+・データを表示／検索する
+	mysql> select * from テーブル名;
+	mysql> select カラム1, カラム2, カラムn from テーブル名;
+	mysql> select * from テーブル名 where 条件式;
+	mysql> select * from テーブル名 where 条件式 order by カラム名 ASC|DESC;
+
+
+・データを挿入する
+	mysql> insert into テーブル名(カラム1, カラム2...カラムn)
+			values(値1, 値2...値n);
+	mysql> insert into テーブル名
+			values(値1, 値2...値n);
+
+・データを更新する
+	mysql> update テーブル名 set
+			  カラム1 = 値1
+			, カラム2 = 値2;
+	mysql> update テーブル名 set
+			  カラム1 = 値1
+			, カラム2 = 値2
+			where 条件式;
+
+・データを削除する
+	mysql> delete from テーブル名;
+	mysql> delete from テーブル名 where 条件式;
+	mysql> truncate table テーブル名;
+
+
+
+
